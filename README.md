@@ -18,3 +18,5 @@ reload := "z" ; you will now switch resistances using the z key
 `r` - activate blast resistance
 
 `f` - activate fire resitance
+
+## Guide
